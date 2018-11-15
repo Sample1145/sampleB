@@ -1,2 +1,3 @@
 # sampleB
-first repository
+first repository donot have the data for supervisour
+
